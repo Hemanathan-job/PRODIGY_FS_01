@@ -22,6 +22,4 @@ JWT_SECRET=
 
 Now to run the app, go to the **server folder and run npm run dev** and then go to the **client folder and run npm start**.
 
-## Hope you enjoy
 
-If you enjoy my work, don't forget to leave a star💫.
